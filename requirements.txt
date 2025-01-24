@@ -1,0 +1,5 @@
+moviepy==1.0.3
+google-cloud-storage==2.10.0
+requests==2.31.0
+assemblyai==0.17.0
+functions-framework==3.*
