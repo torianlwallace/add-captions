@@ -8,7 +8,7 @@ from moviepy.editor import VideoFileClip, TextClip, CompositeVideoClip
 import gc
 
 # AssemblyAI API settings
-aai.settings.api_key = "2457c9bfd3c842df9ee26db8b65f8f35"
+aai.settings.api_key = ""
 
 def process_word_batch(words, video_w, video_h, video_duration, batch_size=5):
     """Process words in batches to create caption clips"""
